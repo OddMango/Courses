@@ -1,0 +1,21 @@
+ 1943  mkdir -p CodeRefinery/Day2        # Create Day 2 folder
+ 1944  cd CodeRefinery/Day2
+ 1945  nano hello.py                     # Create a Python script
+ 1946  echo "# Day 2 - I already had a resp. for the course from day one and I will be using it for the day 2 too" > README.md
+ 1947  git status                        # Check new files
+ 1948  git add README.md hello.py        # Stage files
+ 1949  git commit -m "Add CodeRefinery Day 2 Exercise 3"
+ 1950  git push                          # Upload commits to GitHub
+ 1951  git status   
+ 1952  git log -3 --oneline 
+ 1953  git remote -v    
+ 1954  #TIME TO CHECK THAT THE LOG FILE WILL CONTAIN WHATS NEEDED
+ 1955  cd ~/git-exercises/Courses   
+ 1956  mkdir -p CodeRefinery/Day2 
+ 1957  git --no-pager log --all > CodeRefinery/Day2/day2-exercise3-git-log.txt
+ 1958  git add CodeRefinery/Day2/day2-exercise3-git-log.txt
+ 1959  git commit -m "Add Day 2 Exercise 3 Git log" 
+ 1960  git push       
+ 1961  cd ~/git-exercises/Courses
+ 1962  # Save recent terminal commands
+ 1963  history 50 > CodeRefinery/Day2/day2-commands.txt
