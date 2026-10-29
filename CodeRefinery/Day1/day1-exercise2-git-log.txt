@@ -1,0 +1,501 @@
+commit 4afef12a3ab9b0209398ec2ee64c7d825b6b951e
+Author: OddMango <partssigne@gmail.com>
+Date:   Thu Oct 29 12:10:13 2026 +0200
+
+    Add smoked paprika to mixed nuts
+
+commit a1e23247d876527e3b312defa7e8d62e0d5ed3b4
+Author: OddMango <partssigne@gmail.com>
+Date:   Thu Oct 29 12:08:37 2026 +0200
+
+    Add smoked paprika to mixed nuts
+
+commit 3859c943e8de28e90d64b1045fbcb1cccf659a74
+Author: OddMango <partssigne@gmail.com>
+Date:   Thu Oct 29 12:07:02 2026 +0200
+
+    Add mixed nuts recipe
+
+commit 4b731ec6f31ebc6d901551dec0d5ab39598d884d
+Merge: 06fea39 c996863
+Author: Bahareh tasdighi <112759358+Bahar-Tasdighi@users.noreply.github.com>
+Date:   Tue Sep 22 14:07:01 2026 +0200
+
+    Merge pull request #158 from camguit/Sambosah
+    
+    KmrnRecpSalat
+
+commit 06fea393a5348ddc52f25321004173b4aa132039
+Merge: f23425b 5e0700a
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 14:01:38 2026 +0200
+
+    Merge pull request #154 from dr-tio/another-recipe
+    
+    Another recipe
+
+commit f23425bca3220f373cf17ae4109395d9edce3065
+Merge: 4aaf441 3c36108
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 14:00:59 2026 +0200
+
+    Merge pull request #150 from niname-github/morning_porridge
+    
+    Morning porridge
+
+commit 4aaf441ebdcee787479afbc125715e621cc480d9
+Merge: 83659cb c3fa4ec
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 14:00:17 2026 +0200
+
+    Merge pull request #157 from virginiaconderuiz/new-recipe
+    
+    Add spanish omelette recipe
+
+commit 83659cb808cb0e34ef29027a733dfa7401d58c32
+Merge: ae3a653 211daff
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 13:58:14 2026 +0200
+
+    Merge pull request #149 from alexabogo/main
+    
+    Contributing to the original repository with a pull request
+
+commit c9968632b2517405b10ba74fea7275c743578dfc
+Author: camguit <kamran.guity@gmail.com>
+Date:   Tue Sep 22 11:57:31 2026 +0000
+
+    KmrnRecpSalat
+
+commit ae3a653f1050a59bf3ba18bc6cfae4d930f91bdf
+Merge: 4c4ee63 b00a787
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 13:57:28 2026 +0200
+
+    Merge pull request #146 from PeturHenry/patch-1
+    
+    Update mushroom-soup.md
+
+commit c3fa4ec2f17b47a0ab6e45b47be46b9beb2a104d
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 13:45:03 2026 +0200
+
+    Enhance instructions for flipping and serving omelette
+    
+    Clarified instructions for flipping the omelette and added a serving suggestion.
+
+commit 56152c6d4861ce87d50a0d11b4d0ed3a5b931457
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 13:44:41 2026 +0200
+
+    Delete spanish-omelette-recipe.md
+
+commit e656066739a404915532d17b9d343a96f2305688
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 13:43:07 2026 +0200
+
+    Add Spanish omelette recipe with ingredients and instructions
+
+commit 4c4ee63e7221ed65bc05c679938c20f9fd67a465
+Merge: 6101c8c 7e8edb1
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 13:42:56 2026 +0200
+
+    Merge pull request #151 from cristinnebr/my-recipe
+    
+    My recipe
+
+commit 6101c8c69042f61d50fb4873844d3d95f8dd0b61
+Merge: 27454dc 99f1032
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 13:41:51 2026 +0200
+
+    Merge pull request #152 from FrancescaMelis/main
+    
+    Add pumpkin
+
+commit 27454dcf503d8916a1b3da363415070a8171224c
+Merge: 9ce4dce f86e46e
+Author: Diana Iușan <diana.iusan@uppmax.uu.se>
+Date:   Tue Sep 22 13:41:03 2026 +0200
+
+    Merge pull request #153 from janengosopo/new-autumn-recipe
+    
+    New autumn recipe
+
+commit bc4b263edb65de50646a381ed6ae5c105571c52f
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 13:40:51 2026 +0200
+
+    Create spanish-omelette-recipe.md
+
+commit 57b33aa78deb0f08e8b4fabee1bfaba3acbea8cc
+Merge: 9ce4dce b3560e0
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 13:33:29 2026 +0200
+
+    Merge pull request #1 from virginiaconderuiz/exercises
+    
+    Add spanish omelette recipe
+
+commit 5e0700a856386868012958f471ec04c51cff4b57
+Author: dr-tio <me@christywray.com>
+Date:   Tue Sep 22 14:31:07 2026 +0300
+
+    add pizza sauce recipe
+
+commit 99f10323ae769baf7bc98892c772bf41efc12b9e
+Author: FrancescaMelis <melis.franci@gmail.com>
+Date:   Tue Sep 22 13:23:10 2026 +0200
+
+    Update mixed.md
+    
+    Add pumpkin
+
+commit 211daffd303ed0226c7c0fa13ae1cfd33464db4f
+Merge: e8b4c41 1207021
+Author: Alexandra Bogoyavlenskaya <268925676+alexabogo@users.noreply.github.com>
+Date:   Tue Sep 22 12:29:29 2026 +0200
+
+    Merge pull request #1 from alexabogo/my-new-recipe
+    
+    My new recipe
+
+commit e8b4c414b754de27cd9a5d606e34b01480313450
+Author: Alexandra Bogoyavlenskaya <268925676+alexabogo@users.noreply.github.com>
+Date:   Tue Sep 22 12:22:29 2026 +0200
+
+    Update fruit-salad.md
+    
+    Added papaya
+
+commit 12070217a8b21cacbb89e5072bae9aa44a1fce98
+Author: Alexandra Bogoyavlenskaya <268925676+alexabogo@users.noreply.github.com>
+Date:   Tue Sep 22 12:21:28 2026 +0200
+
+    Update mixed-nuts.md
+    
+    Added brazil nut
+
+commit 59d900862f542ed4c88ab40b91c3c92dc60122a7
+Author: Alexandra Bogoyavlenskaya <268925676+alexabogo@users.noreply.github.com>
+Date:   Tue Sep 22 12:20:48 2026 +0200
+
+    Create mixed-nuts.md
+    
+    Created the recipe
+
+commit 7e8edb1d67e5259058276cca350b3d8fdd5aaf4e
+Author: Andressa Costa <31411083+cristinnebr@users.noreply.github.com>
+Date:   Tue Sep 22 12:17:09 2026 +0200
+
+    Add 'Guten Appetit!' to recipe preparation steps
+
+commit 80e14f29a7e45fa805e73e58d7017e25f820b7be
+Author: Andressa Costa <31411083+cristinnebr@users.noreply.github.com>
+Date:   Tue Sep 22 12:16:13 2026 +0200
+
+    Add Kartoffel-Gemüse recipe markdown file
+
+commit b3560e00c71b2d3b6b5ea083c8d52acfebbb4c16
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 12:00:03 2026 +0200
+
+    Format ingredients with bold text
+
+commit 3c361082ccc398c5bf38f9a898df709375b31d41
+Author: niname-github <112086499+niname-github@users.noreply.github.com>
+Date:   Tue Sep 22 11:57:04 2026 +0200
+
+    clarify boiling morning-porridge.md
+
+commit 7815427d2fdbab0ca12787fbafc0ec9839cc696d
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:56:08 2026 +0200
+
+    Delete spanish-omelette
+
+commit c4d1f920e43b294deea655880a7c706ed5f3c7bc
+Author: niname-github <112086499+niname-github@users.noreply.github.com>
+Date:   Tue Sep 22 11:55:59 2026 +0200
+
+    Create morning-porridge.md
+    
+    added new file
+
+commit 4474202c26c0822edea71536aab1e6822798dfb8
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:54:50 2026 +0200
+
+    Add recipe for Spanish omelette
+
+commit 9c8f9306ccbcf8dc1a1dc94af4a737a7d8f32eeb
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:54:21 2026 +0200
+
+    Create spanish-omelette.md
+
+commit f5a18ead41415690f659d4a84662df5a67cad2fe
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:53:12 2026 +0200
+
+    Refactor Spanish omelette recipe formatting
+    
+    Updated formatting for the Spanish omelette recipe.
+
+commit aa3c619d76fd05a100dfa35d0bd9be13c4fa4451
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:47:52 2026 +0200
+
+    Update spanish-omelette
+
+commit 62a97db33ad91d8468da6534f5a9bfe69a7a6067
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:44:46 2026 +0200
+
+    Add Spanish omelette recipe
+    
+    Added a recipe for Spanish omelette including ingredients and instructions.
+
+commit 7c0f311b6bb021d39ce0a0332aed26ba636bcc26
+Author: niname-github <112086499+niname-github@users.noreply.github.com>
+Date:   Tue Sep 22 11:43:11 2026 +0200
+
+    Update guacamole.md
+    
+    updated by niname
+
+commit f86e46e79d67e15767910e428a89b9f29cb72dc1
+Author: Jane Ngo <129173943+janengosopo@users.noreply.github.com>
+Date:   Tue Sep 22 12:42:46 2026 +0300
+
+    Update Garlic Butter Mushrooms.md
+
+commit 7dcbfb0501a40d8398c6b7b72813a883b5774aac
+Author: Jane Ngo <129173943+janengosopo@users.noreply.github.com>
+Date:   Tue Sep 22 12:41:29 2026 +0300
+
+    Add recipe of Garlic Butter Mushroom to side dishes
+
+commit f4d5d44b7c1669c5c5a177f1dc820a39d07bfaaf
+Author: dr-tio <me@christywray.com>
+Date:   Tue Sep 22 12:39:47 2026 +0300
+
+    Adding chickpea curry recipe
+
+commit 3e58113f0914b6693cc5934da4c105c8b1582547
+Author: FrancescaMelis <melis.franci@gmail.com>
+Date:   Tue Sep 22 11:39:18 2026 +0200
+
+    Update guacamole.md
+
+commit 98c8a6d59a1d5b1e3c84505168b4af55752de22a
+Author: virginiaconderuiz <virginir@uio.no>
+Date:   Tue Sep 22 11:38:18 2026 +0200
+
+    Create spanish-omelette
+
+commit b00a787576f30e58605e16521025e9054dae59b9
+Author: PeturHenry <98101751+PeturHenry@users.noreply.github.com>
+Date:   Tue Sep 22 08:54:38 2026 +0000
+
+    Update mushroom-soup.md
+    
+    added tasty
+
+commit 9ce4dced2d2560ba6c7fa26e81fca3714ba3ba0f
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Sun Sep 1 16:02:49 2024 +0200
+
+    clarify
+
+commit 0241b03e01daf95987b263bda06447f9db3b571b
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Aug 21 13:32:09 2024 +0200
+
+    restore tests
+
+commit 4706ecbb64d431be9a78d9de1de8b7f00edf0f16
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 15:01:59 2024 +0200
+
+    simplify
+
+commit 155ef835b851013685157ade1c3fe089142a1e90
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 14:44:44 2024 +0200
+
+    add note about where to direct PRs to
+
+commit a8b1aff822bb6c50c59cc3c58a57203e681b2153
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Wed Jul 10 14:41:33 2024 +0200
+
+    more robust automatic test
+    
+    Co-authored-by: Richard Darst <rkdarst@users.noreply.github.com>
+
+commit 9c5559a006d2ae8aaed6eca1a2b61b6134f2a863
+Author: Richard Darst <rkd@zgib.net>
+Date:   Wed Mar 13 18:23:01 2024 +0200
+
+    Add basic recipe checks
+
+commit 990cea4dc71f7f222299845ffba039b97c6d2f3b
+Author: Richard Darst <rkd@zgib.net>
+Date:   Wed Mar 13 18:22:10 2024 +0200
+
+    sides/poke: Add instructions to recipe
+
+commit 554c187a054d20727471d8b6675744ea3f31124d
+Merge: 8bcb766 89d5ef9
+Author: Riley Johnson <riley.johnson@example.org>
+Date:   Wed Mar 6 20:25:54 2024 +0100
+
+    Merge branch 'alex/fruit-salad'
+
+commit 8bcb7662b16924476b84abd05ca15c9e8168c606
+Author: Riley Johnson <riley.johnson@example.org>
+Date:   Wed Mar 6 20:25:34 2024 +0100
+
+    a todo note to not forget the instructions
+
+commit 89d5ef9b8296b57c29c734b7c5288a643e85eb8f
+Author: Alex Smith <alex.smith@example.org>
+Date:   Wed Mar 6 20:22:55 2024 +0100
+
+    fruit salad: instructions
+
+commit 3bd2468fcd2719559a6e4c569aac351d75ee5d8b
+Author: Alex Smith <alex.smith@example.org>
+Date:   Wed Mar 6 20:22:40 2024 +0100
+
+    fruit salad: ingredients
+
+commit b950c5ca697eefa6c0ca6a81e7c6983a89d971bd
+Author: Casie Yamamoto <casie.yamamoto@example.org>
+Date:   Wed Mar 6 19:25:41 2024 +0100
+
+    just fixing capitalization
+
+commit d18035ebcd9726933594bb60e21e4073cb1e3aac
+Author: Casie Yamamoto <casie.yamamoto@example.org>
+Date:   Wed Mar 6 19:22:44 2024 +0100
+
+    fix formatting
+
+commit 7051ccac5e5264cb1627d886670aae1c30905c18
+Author: Jamie Garcia <jamie.garcia@example.org>
+Date:   Wed Mar 6 19:19:34 2024 +0100
+
+    add some cilantro
+
+commit ae19e812c4f6a722574c26915ade3e3630c93aa5
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:25:30 2024 +0100
+
+    add categories for easier browsing
+
+commit a6fe62967cc5da51d9e9939b3407b5bb19792d9c
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:25:20 2024 +0100
+
+    we also need salad
+
+commit 30b89c452a598c0a23d192c0018558612476bfa6
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:21:00 2024 +0100
+
+    document what this is about
+
+commit fd12dc1665e1a7565589defe0b7254afcc21ded8
+Merge: 1e5a24a 7753d43
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:52 2024 +0100
+
+    Merge branch 'radovan/lasagna'
+
+commit 1e5a24a570d3878133d8e80fc3a4a0dcd4b428ab
+Merge: 9500901 5aa6687
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:44 2024 +0100
+
+    Merge branch 'radovan/poke'
+
+commit 95009019df7e86a3770345bc096ec149d1da0e97
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:19:18 2024 +0100
+
+    a classic pumpkin pie recipe - yum!
+
+commit 34ce93970caf1dde911c0e96af540f51e3e9b8f1
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:54 2024 +0100
+
+    drafting a recipe for a pasta, so far only ingredients
+
+commit 28e5f2606ecd9df7dca61a027ae9ede347e2e022
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:43 2024 +0100
+
+    recipe for a mushroom soup
+
+commit 7753d434d6ec3240bfafb739a51c9ea4b35924f4
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:18:11 2024 +0100
+
+    vegetarian lasagna: instructions
+
+commit aa0473e47e2ff466d22d6b1b05dd26d4cbdd5895
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:16:38 2024 +0100
+
+    vegetarian lasagna: ingredients
+
+commit 5aa6687368bca0feff034647693bc26bb378e897
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:14:52 2024 +0100
+
+    oh no! forgot onion - adding
+
+commit cc84e4f8982d021486c79f950a0d0f3530dcfa59
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 18:14:34 2024 +0100
+
+    working on a poke recipe
+
+commit a5509634d0c683482b6ba4e14145246da0cd4cc4
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:55:15 2024 +0100
+
+    reduce amount of salt
+
+commit f2d6d58d9ea34c9070f2963f152a29f4c0f4b7da
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:54:32 2024 +0100
+
+    don't forget to enjoy
+
+commit 1fde0642ec230f624b72cc69ff2907087b0d210c
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:53:51 2024 +0100
+
+    add half an onion
+
+commit 4c1873eeb0d0c702bb500946d657184079dbdab2
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:56 2024 +0100
+
+    drafting a guacamole recipe
+
+commit 299244344aca7983ced477e99c5f856c6ae48c5d
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:20 2024 +0100
+
+    this will be licensed under CC0
+
+commit 084a1eaf44e41bd14a064937f298cbe89e06e636
+Author: Radovan Bast <bast@users.noreply.github.com>
+Date:   Tue Mar 5 17:52:01 2024 +0100
+
+    starting with an almost empty readme
