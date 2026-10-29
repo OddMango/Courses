@@ -24,7 +24,6 @@ git log --all                    # View full commit history
 git log --oneline --all          # View compact commit history
 git log --graph --oneline --all  # Visualize branches and commits
 git show COMMIT                  # Show changes in one commit
-# GitHub: Insights -> Network
 
 #  Compare branches
 git diff main new-recipe         # Compare changes between branches
@@ -44,7 +43,6 @@ git branch -m new-recipe better-recipe # Rename local branch
 git branch                       # Verify branch name
 git log --graph --oneline --all  # View updated history
 git push -u origin better-recipe # Publish renamed branch
-# GitHub: Insights -> Network
 
 # Create a tag and GitHub release
 git switch better-recipe         # Switch to recipe branch
@@ -52,10 +50,8 @@ git tag -a v1.0 -m "First version" # Create annotated tag
 git tag                          # List tags
 git show v1.0                    # Inspect tagged commit
 git push origin v1.0             # Publish tag to GitHub
-# GitHub: Releases -> Draft a new release
 
 # Additional commands I tested
-git status                       # Check working tree
 git branch                       # List local branches
 git branch -a                    # List local and remote branches
 git remote -v                    # Check connected remote repository
