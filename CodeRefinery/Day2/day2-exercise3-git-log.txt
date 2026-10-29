@@ -1,0 +1,25 @@
+commit aa035dc94d5512cf4fb810d018ac6ad0f3466e27
+Author: OddMango <partssigne@gmail.com>
+Date:   Thu Oct 29 13:04:59 2026 +0200
+
+    Add CodeRefinery Day 2 Exercise 3
+
+commit 65ffafa2a418a7563dfca49cb9124601cc2e33f2
+Author: Signe Parts <partssigne@gmail.com>
+Date:   Thu Oct 29 12:54:57 2026 +0200
+
+    Update Cheat Sheet.txt
+
+commit 4dd4f8555fba7f3908a1088ccd9171a81a5a68cd
+Author: Signe Parts <partssigne@gmail.com>
+Date:   Thu Oct 29 12:49:25 2026 +0200
+
+    Final version of Cheat Sheet.txt Day 1
+    
+    All the commands used in the terminal for Day 1 ex 2
+
+commit 4747804da62efd9b3eb1fa46c7de7ef16db7c4fd
+Author: OddMango <partssigne@gmail.com>
+Date:   Thu Oct 29 12:29:24 2026 +0200
+
+    Add CodeRefinery Day 1 Exercise 2 log
